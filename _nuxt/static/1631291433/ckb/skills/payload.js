@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ckb/skills", {data:[{}],fetch:{},mutations:[]});
